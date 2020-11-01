@@ -1,0 +1,11 @@
+.list {
+    margin-top: 50px;
+    list-style: none;
+    width: 70%;
+}
+
+.list > li {
+    margin: 20px 0px;
+    border-bottom: 1px solid darkgrey;
+    cursor: pointer;
+}

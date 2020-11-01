@@ -1,0 +1,6 @@
+[0922/155308.653:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1012/195242.574:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\rohit.vhora\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\1346b0c8-366c-4571-9da5-d40a8ddcbc6d: The system cannot find the path specified. (0x3)
+[1012/195242.805:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\rohit.vhora\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\432997f5-ab65-4575-afcb-e170eca6344c: The system cannot find the path specified. (0x3)
+[1012/195243.306:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\rohit.vhora\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\aa401eb1-ad27-4c7a-bd47-13b155603469: The system cannot find the path specified. (0x3)
+[1012/195243.678:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/102610.882:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

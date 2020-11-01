@@ -1,0 +1,17 @@
+.main-container {
+    display: flex;
+}
+
+.users-header {
+    flex: 1;
+}
+
+.users-container {
+    flex: 3;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user {
+    flex: 1 1 100px;
+}
